@@ -4,4 +4,4 @@ Loup Garou UHC est un concept repris du célèbre jeu de plateforme : Les Loups-
 # Installation
 L'utilitaire fonctionne avec Skript et plusieurs addons. Il est à l'heure actuelle compatible uniquement en version 1.8 et cela ne changera sans doute pas. Il vous suffit de télécharger l'archive qui vous proposera un dossier plugins qui doit être placé à la racine de votre serveur, puis lancer votre serveur.
 
-Une fois connecté si c'est la première fois que vous installez cet utilitaire, il vous proposera de cliquer sur le texte proposé pour lancer le paramétrage de première utilisation : vous obtiendrez les droits de configuration de la partie, vous serez défini comme l'hôte principal, personne ne pourra vous retirer vos privillèges.
+Une fois connecté si c'est la première fois que vous installez cet utilitaire, il vous sera proposé de lancer le paramétrage de première utilisation : vous obtiendrez les droits de configuration de la partie, vous serez défini comme l'hôte principal, personne ne pourra vous retirer vos privillèges.
