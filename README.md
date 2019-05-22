@@ -1,4 +1,4 @@
-# IMPORTANT 21/05/19
+# IMPORTANT
 Le concept a été abandonné et n'étant pas terminé, le code actuel ne sera pas partagé. Néanmoins, je ne ferme pas la possibilité à le reprendre un jour qui sait. Si tel est le cas ça sera annoncé sur ce GitHub et sur mon Twitter : @CorentinKlb.
 
 # Qu'est-ce-que LG UHC ?
